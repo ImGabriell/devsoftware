@@ -5,7 +5,7 @@ public class Triangulo extends FormaGeometrica
     private double base;
     private double altura;
 
-    public Triangulo()
+    public Triangulo(double base2)
     {
 
     }
