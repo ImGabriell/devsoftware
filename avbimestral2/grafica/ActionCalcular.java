@@ -54,7 +54,7 @@ public class ActionCalcular extends AbstractAction
 
         catch(NumberFormatException ex)
         {
-            System.out.println("1");
+            System.out.println("Erro");
             JOptionPane.showMessageDialog(null, "Número inválido. Tente novamente", "Calculadora Simples", JOptionPane.ERROR_MESSAGE);
         }
 
